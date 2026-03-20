@@ -1,0 +1,10 @@
+{
+  "STRATEGY_ATTACK.title": "All-out Attack",
+  "STRATEGY_ATTACK.description": "Vakuu's Whisper: Prioritize playing Attack cards, targeting the weakest enemy.",
+  "STRATEGY_DEFENSE.title": "Steady Defense",
+  "STRATEGY_DEFENSE.description": "Vakuu's Whisper: Prioritize playing Block cards for maximum protection.",
+  "STRATEGY_POWER.title": "Power Build",
+  "STRATEGY_POWER.description": "Vakuu's Whisper: Prioritize playing Power cards to set up for later turns.",
+  "STRATEGY_RANDOM.title": "Pure Chaos",
+  "STRATEGY_RANDOM.description": "Vakuu's Whisper: Play cards completely at random. Order differs every S/L."
+}
