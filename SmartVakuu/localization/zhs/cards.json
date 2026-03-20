@@ -1,10 +1,10 @@
 {
-  "STRATEGY_ATTACK.title": "全力攻击",
-  "STRATEGY_ATTACK.description": "瓦库的低语：优先打出攻击牌，瞄准血量最低的敌人。",
-  "STRATEGY_DEFENSE.title": "稳健防御",
-  "STRATEGY_DEFENSE.description": "瓦库的低语：优先打出防御牌，获取尽可能多的格挡。",
-  "STRATEGY_POWER.title": "蓄力能力",
-  "STRATEGY_POWER.description": "瓦库的低语：优先打出能力牌，为后续回合做准备。",
-  "STRATEGY_RANDOM.title": "纯粹混沌",
-  "STRATEGY_RANDOM.description": "瓦库的低语：完全随机地打出牌。每次读档（S/L）的打牌顺序各不相同。"
+  "STRATEGY_ATTACK.title": "优先攻击",
+  "STRATEGY_ATTACK.description": "优先打出攻击牌。",
+  "STRATEGY_DEFENSE.title": "优先防御",
+  "STRATEGY_DEFENSE.description": "优先打出防御牌。",
+  "STRATEGY_POWER.title": "优先能力",
+  "STRATEGY_POWER.description": "优先打出能力牌",
+  "STRATEGY_RANDOM.title": "随机打牌",
+  "STRATEGY_RANDOM.description": "完全随机地打出牌。每次读档的打牌顺序各不相同。"
 }
