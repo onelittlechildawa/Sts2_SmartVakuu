@@ -1,7 +1,7 @@
 {
   "id": "SmartVakuu", 
   "name": "Smart Vakuu", 
-  "author": "AI Mod",
+  "author": "小小小朋友",
   "description": "让瓦库耳环更聪明：战斗开始时选择攻击/防御/能力策略，智能排序出牌",
   "version": "1.0",
   "has_pck": true,    
